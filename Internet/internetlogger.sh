@@ -1,6 +1,8 @@
 #!/bin/bash
 
-echo 'Checking if ping.log exists...'
+echo 'Setting up ping log...'
+echo 'What interval should i ping with?'
+read -r interval
 while true; do
 	FILE=ping.log
 	if test "$FILE"; then
@@ -10,8 +12,8 @@ while true; do
 			echo 'Pinging 8.8.8.8...'
 			date >> ping.log
 			ping -c 4 8.8.8.8 >> ping.log
-			echo 'Pausing for 10 seconds'
-			sleep 10
+			echo "Pausing for $interval seconds"
+			sleep $interval
 		done
 	else
 		echo 'Couldnt find ping.log, creating it now...'

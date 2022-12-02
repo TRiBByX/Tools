@@ -1,0 +1,61 @@
+----------------------------------------
+Fri Dec  2 01:08:32 PM CET 2022
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=128 time=175 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=128 time=122 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=128 time=52.6 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=128 time=205 ms
+
+--- 8.8.8.8 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+rtt min/avg/max/mdev = 52.593/138.666/204.697/57.805 ms
+----------------------------------------
+Fri Dec  2 01:08:36 PM CET 2022
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=128 time=92.2 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=128 time=62.8 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=128 time=61.3 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=128 time=46.4 ms
+
+--- 8.8.8.8 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+rtt min/avg/max/mdev = 46.355/65.692/92.248/16.630 ms
+----------------------------------------
+Fri Dec  2 01:10:07 PM CET 2022
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=128 time=39.3 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=128 time=171 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=128 time=108 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=128 time=59.6 ms
+
+--- 8.8.8.8 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 39.322/94.546/170.936/50.732 ms
+----------------------------------------
+Fri Dec  2 01:10:11 PM CET 2022
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=128 time=106 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=128 time=57.2 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=128 time=207 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=128 time=39.5 ms
+
+--- 8.8.8.8 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 39.471/102.381/207.210/65.180 ms
+----------------------------------------
+Fri Dec  2 01:10:15 PM CET 2022
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=128 time=71.3 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=128 time=66.6 ms
+
+--- 8.8.8.8 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 66.638/68.948/71.259/2.310 ms
+----------------------------------------
+Fri Dec  2 01:10:17 PM CET 2022
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=128 time=44.8 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 44.790/44.790/44.790/0.000 ms
